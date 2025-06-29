@@ -4,7 +4,7 @@ public class Dice {
     private int max;
     private Random random = new Random();
 
-    public Dice(int max) {
+    public Dice() {
         this.max = 6;
     }
 
